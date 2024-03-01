@@ -1,2 +1,2 @@
-As aulas estão divididas entre as Branhc's;
+As aulas estão divididas entre as Branch's;
 
